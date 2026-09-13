@@ -51,7 +51,7 @@ comic-design-framework/
 ├── skills/
 │   ├── comic-style-director/
 │   ├── comic-character-designer/
-│   ├── comic-environment-designer/ (planned)
+│   ├── comic-environment-designer/
 │   └── comic-design-reviewer/ (planned)
 ├── schemas/
 │   ├── design-status.md
@@ -86,7 +86,7 @@ Current and planned Skill set:
 
 - `comic-style-director` — implemented; define, select, compare, evolve, and visually explore visual styles and Style Packs.
 - `comic-character-designer` — implemented; develop new character designs or refine existing drafts, character sheets, turnarounds, variants, expressions, costumes, equipment, continuity anchors, and visual identity.
-- `comic-environment-designer` — planned; develop locations, architecture, environments, props, machinery, and related visual world elements.
+- `comic-environment-designer` — implemented; develop new locations and world elements or refine existing environment drafts, location sheets, photos, maps, architectural references, props, machinery, vehicles, signage, spatial continuity anchors, and visual world identity.
 - `comic-design-reviewer` — planned; review visual consistency, style compliance, source fidelity, repeatability, and approval readiness.
 
 In v1, props, vehicles, costumes, creatures, and related design objects remain responsibilities of the character or environment designer unless repeated real-world use shows that a dedicated Skill is needed.
