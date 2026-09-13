@@ -1,4 +1,4 @@
-# comic-design-framework
+# comic-framework-design
 
 A reusable framework for AI-assisted visual development of comics.
 
@@ -6,11 +6,11 @@ The framework defines how to develop, review, and document visual styles, charac
 
 ## Purpose
 
-`comic-design-framework` complements `comic-story-framework`.
+`comic-framework-design` complements `comic-framework-story`.
 
-- `comic-story-framework` defines narrative truth, characters, relationships, world logic, story, scripts, and storyboards.
-- `comic-design-framework` defines how those narrative elements are visually interpreted and approved.
-- a future `comic-production-framework` may turn approved story and design material into production-ready panels, pages, lettering, and exports.
+- `comic-framework-story` defines narrative truth, characters, relationships, world logic, story, scripts, and storyboards.
+- `comic-framework-design` defines how those narrative elements are visually interpreted and approved.
+- a future `comic-framework-production` may turn approved story and design material into production-ready panels, pages, lettering, and exports.
 
 The comic project repository remains the source of truth for project-specific content.
 
@@ -46,7 +46,7 @@ They are intended to work alongside `comic-project-standard-v1` from the story f
 ## Repository structure
 
 ```text
-comic-design-framework/
+comic-framework-design/
 ├── README.md
 ├── skills/
 │   ├── comic-style-director/

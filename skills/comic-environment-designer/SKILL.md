@@ -9,7 +9,7 @@ description: Develop, refine, compare, document, and visually explore comic envi
 
 Treat this Skill as compatible with **Comic Design Standard v1** (`comic-design-standard-v1`).
 
-Use explicit project conventions when they intentionally override framework defaults. Treat relevant outputs from `comic-story-framework` as upstream narrative constraints, not as visual instructions unless they explicitly contain visual facts.
+Use explicit project conventions when they intentionally override framework defaults. Treat relevant material governed by **Comic Project Standard v1** (`comic-project-standard-v1`) as upstream narrative constraints, not as visual instructions unless it explicitly contains visual facts.
 
 ## Project entry points
 

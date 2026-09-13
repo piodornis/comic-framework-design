@@ -9,7 +9,7 @@ description: Review comic visual-development work for style compliance, source a
 
 Treat this Skill as compatible with **Comic Design Standard v1** (`comic-design-standard-v1`).
 
-Use explicit project conventions when they intentionally override framework defaults. Treat relevant outputs from `comic-story-framework` as upstream narrative constraints and use them only to evaluate visual fit, not to rewrite narrative canon.
+Use explicit project conventions when they intentionally override framework defaults. Treat relevant material governed by **Comic Project Standard v1** (`comic-project-standard-v1`) as upstream narrative constraints and use it only to evaluate visual fit, not to rewrite narrative canon.
 
 ## Project entry points
 
