@@ -1,12 +1,15 @@
-# Planned Skills
+# Skills
 
-The v1 skill set is intentionally not created in this scaffold yet.
+The v1 design framework uses a small set of focused Skills built on `comic-design-standard-v1`.
 
-Planned skills:
+## Implemented
 
-- `comic-style-director`
-- `comic-character-designer`
-- `comic-environment-designer`
-- `comic-design-reviewer`
+- `comic-style-director` — define, refine, compare, document, and visually explore reusable or project-specific comic styles; combine Style Packs with Transformation Profiles while respecting narrative constraints from story-framework outputs.
 
-Build these after the schemas, Style Pack model, and Transformation Profile model have been reviewed in practice.
+## Planned
+
+- `comic-character-designer` — develop character appearance, sheets, variants, expressions, costumes, and visual identity.
+- `comic-environment-designer` — develop locations, architecture, environments, props, machinery, and related visual world elements.
+- `comic-design-reviewer` — review visual consistency, style compliance, source fidelity, repeatability, and approval readiness.
+
+Build additional dedicated Skills only when practical use shows that the shared character/environment responsibilities are too broad.

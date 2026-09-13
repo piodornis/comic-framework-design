@@ -49,6 +49,10 @@ They are intended to work alongside `comic-project-standard-v1` from the story f
 comic-design-framework/
 ├── README.md
 ├── skills/
+│   ├── comic-style-director/
+│   ├── comic-character-designer/ (planned)
+│   ├── comic-environment-designer/ (planned)
+│   └── comic-design-reviewer/ (planned)
 ├── schemas/
 │   ├── design-status.md
 │   ├── visual-style-schema.md
@@ -76,14 +80,14 @@ comic-design-framework/
             └── archive/
 ```
 
-## Planned v1 Skills
+## v1 Skills
 
-The first Skill set should contain:
+Current and planned Skill set:
 
-- `comic-style-director` — define, select, compare, and evolve visual styles and Style Packs.
-- `comic-character-designer` — develop character appearance, sheets, variants, expressions, costumes, and visual identity.
-- `comic-environment-designer` — develop locations, architecture, environments, props, machinery, and related visual world elements.
-- `comic-design-reviewer` — review visual consistency, style compliance, source fidelity, repeatability, and approval readiness.
+- `comic-style-director` — implemented; define, select, compare, evolve, and visually explore visual styles and Style Packs.
+- `comic-character-designer` — planned; develop character appearance, sheets, variants, expressions, costumes, and visual identity.
+- `comic-environment-designer` — planned; develop locations, architecture, environments, props, machinery, and related visual world elements.
+- `comic-design-reviewer` — planned; review visual consistency, style compliance, source fidelity, repeatability, and approval readiness.
 
 In v1, props, vehicles, costumes, creatures, and related design objects remain responsibilities of the character or environment designer unless repeated real-world use shows that a dedicated Skill is needed.
 
