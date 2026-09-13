@@ -11,6 +11,15 @@ Treat this Skill as compatible with **Comic Design Standard v1** (`comic-design-
 
 Use the project's explicit conventions when they intentionally override framework defaults. Treat relevant story-framework outputs as upstream narrative constraints, not as visual instructions unless they explicitly contain visual facts.
 
+## Project entry points
+
+For project work, use these complementary entry points when they exist:
+
+- `project.md` - narrative/project source of truth
+- `design-project.md` - active design configuration and design-layer source of truth
+
+Read both when they are available and relevant. Do not use `design-project.md` to silently override narrative canon, and do not use `project.md` to silently replace approved or locked visual design. For focused work, read only the smallest additional source set needed for the task.
+
 ## Purpose
 
 Develop the visual identity of comic characters while preserving narrative canon, project style, design approval state, and existing design intent.
@@ -23,6 +32,7 @@ Accept focused material or a complete project repository.
 
 Relevant inputs include:
 
+- project `project.md` and `design-project.md` entry points
 - story-side character profiles, relationships, world rules, scripts, and storyboards
 - existing `design.md` records
 - sketches, concept art, character sheets, turnarounds, screenshots, photos, and generated images
@@ -32,7 +42,7 @@ Relevant inputs include:
 - Transformation Profiles such as `photo-to-comic`
 - visual references with explicit or inferred reference roles
 
-Read the smallest set of sources needed for the task. For project-wide work, inspect the project entry points and the relevant narrative and design records first.
+Read the smallest set of sources needed for the task. For project-wide work, inspect both project entry points when present, then the relevant narrative and design records.
 
 ## Existing-design intake
 
@@ -255,5 +265,7 @@ Do not by default:
 Default to analysis, drafting, and proposed placement.
 
 Do not overwrite, rename, move, archive, or delete existing design files unless explicitly requested.
+
+When archival or replacement is explicitly requested, follow the project's design archive policy when available and preserve approval-state history.
 
 When a newer design replaces an older one, recommend `SUPERSEDED` for the old design or project archiving according to project policy, but do not perform destructive changes without approval.

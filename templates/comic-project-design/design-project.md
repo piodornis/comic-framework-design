@@ -11,6 +11,13 @@
 - Design phase: Exploration
 - Primary language:
 
+## Project entry points
+
+- Narrative/project entry point: `project.md` (when present)
+- Design entry point: `design-project.md`
+
+For design work, read both when they are available and relevant. `project.md` governs narrative/project truth; `design-project.md` governs the active visual configuration and design-layer state. Do not use the design layer to silently override narrative canon.
+
 ## Active visual configuration
 
 - Primary Style Pack:
@@ -48,6 +55,8 @@ design/
 ├── references/
 └── archive/
 ```
+
+Follow the framework's `design-archive-policy.md` for superseded or historically retained design artifacts. Do not move material into `design/archive/` without explicit authorization.
 
 ## Project-specific style notes
 

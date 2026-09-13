@@ -11,6 +11,15 @@ Treat this Skill as compatible with **Comic Design Standard v1** (`comic-design-
 
 Use explicit project conventions when they intentionally override framework defaults. Treat relevant outputs from `comic-story-framework` as upstream narrative constraints and use them only to evaluate visual fit, not to rewrite narrative canon.
 
+## Project entry points
+
+For project work, use these complementary entry points when they exist:
+
+- `project.md` - narrative/project source of truth
+- `design-project.md` - active design configuration and design-layer source of truth
+
+Read both when they are available and relevant. Do not use `design-project.md` to silently override narrative canon, and do not use `project.md` to silently replace approved or locked visual design. For focused work, read only the smallest additional source set needed for the task.
+
 ## Purpose
 
 Review visual development for consistency, fidelity, repeatability, and readiness while preserving creator authority.
@@ -26,7 +35,7 @@ Accept focused material or a complete project repository.
 Relevant inputs include:
 
 - narrative canon, world rules, character facts, scripts, storyboards, and issue requirements
-- project `design-project.md`
+- project `project.md` and `design-project.md` entry points
 - character and environment design records
 - character sheets, turnarounds, expressions, costume or equipment variants
 - environment sheets, interiors, exteriors, reverse angles, maps, floor plans, props, machinery, vehicles, and signage
@@ -36,7 +45,7 @@ Relevant inputs include:
 - approved or locked visual references
 - creator notes and explicit preservation requirements
 
-Read the smallest source set necessary for a focused review. For project-wide reviews, inspect project entry points, active style rules, relevant narrative constraints, and current approved/locked designs first.
+Read the smallest source set necessary for a focused review. For project-wide reviews, inspect both project entry points when present, then active style rules, relevant narrative constraints, and current approved/locked designs.
 
 ## Review modes
 
@@ -296,6 +305,8 @@ Do not:
 - edit source images
 - generate corrected replacements unless the user explicitly asks
 - rename, move, archive, or delete files
+
+When archival or replacement is explicitly requested, follow the project's design archive policy when available and preserve approval-state history.
 - commit or push Git changes
 - mark designs approved or locked
 

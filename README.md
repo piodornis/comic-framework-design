@@ -55,6 +55,8 @@ comic-design-framework/
 │   └── comic-design-reviewer/
 ├── schemas/
 │   ├── design-status.md
+│   ├── design-project-structure.md
+│   ├── design-archive-policy.md
 │   ├── visual-style-schema.md
 │   ├── style-pack-schema.md
 │   ├── transformation-profile-schema.md
@@ -152,6 +154,19 @@ comic-project/
 ```
 
 Use `templates/comic-project-design/design-project.md` as the design-layer entry point.
+
+## Project entry points and handoff
+
+A combined comic project may expose two complementary entry points:
+
+- `project.md` - narrative/project source of truth
+- `design-project.md` - active design configuration and design source of truth
+
+Design workflows should inspect both when they are available and relevant. Narrative facts remain governed by the project/story layer; visual approval and active design configuration belong to the design layer.
+
+Use `schemas/design-project-structure.md` for the normative structure, read order, and Story -> Design -> Production handoff rules.
+
+Use `schemas/design-archive-policy.md` when visual artifacts are superseded, moved out of active folders, or retained for historical reference.
 
 ## Source-of-truth principle
 

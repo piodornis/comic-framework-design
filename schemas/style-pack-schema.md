@@ -54,6 +54,8 @@ A Style Pack should identify:
 - intended use
 - framework contract
 
+For a framework-reusable Style Pack, an `APPROVED` state means the pack itself is accepted as a reusable framework resource. It does **not** make that style active, approved, or locked inside every comic project. A project must select or approve its own use of the pack through the project design layer.
+
 ## Recommended sections
 
 Use the fields from `visual-style-schema.md` and add:

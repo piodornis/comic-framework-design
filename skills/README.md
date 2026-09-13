@@ -10,3 +10,7 @@ The v1 design framework uses a small set of focused Skills built on `comic-desig
 - `comic-design-reviewer` — review visual consistency, style compliance, source and reference fidelity, character and environment continuity, cross-design cohesion, repeatability, and approval readiness without silently changing designs.
 
 Build additional dedicated Skills only when practical use shows that the shared character/environment responsibilities are too broad.
+
+## Shared project-entry rule
+
+For project work, all v1 design Skills treat `project.md` as the narrative/project entry point and `design-project.md` as the design-layer entry point. Read both when they are available and relevant; neither silently replaces the other.

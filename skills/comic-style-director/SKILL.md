@@ -11,6 +11,15 @@ Treat this Skill as compatible with **Comic Design Standard v1** (`comic-design-
 
 Use the project's explicit conventions when they intentionally override framework defaults. Do not silently assume behavior from a newer contract.
 
+## Project entry points
+
+For project work, use these complementary entry points when they exist:
+
+- `project.md` - narrative/project source of truth
+- `design-project.md` - active design configuration and design-layer source of truth
+
+Read both when they are available and relevant. Do not use `design-project.md` to silently override narrative canon, and do not use `project.md` to silently replace approved or locked visual design. For focused work, read only the smallest additional source set needed for the task.
+
 ## Purpose
 
 Direct the visual language of a comic project without taking over character design, environment design, or final production.
@@ -30,6 +39,7 @@ Treat all relevant project material as valid input, including text produced thro
 Possible sources include:
 
 - `project.md`
+- `design-project.md`
 - canon and world rules
 - character profiles and relationships
 - locations, factions, institutions, technology, culture, and props
@@ -42,7 +52,7 @@ Possible sources include:
 
 Do not read the entire repository mechanically when the request is narrow. Read the smallest set that establishes the required narrative and visual constraints.
 
-When a complete project repository is available and the request is project-wide, inspect the project entry point first and then the relevant narrative and design sources.
+When a complete project repository is available and the request is project-wide, inspect both project entry points when present and then the relevant narrative and design sources.
 
 ## Operating modes
 
@@ -220,6 +230,8 @@ Hand detailed character work to the Comic Character Designer and detailed world 
 Default to analysis, drafting, and proposed placement.
 
 Do not overwrite, rename, move, archive, delete, commit, or push files unless explicitly requested.
+
+When archival or replacement is explicitly requested, follow the project's design archive policy when available and preserve approval-state history.
 
 When the creator asks to create or update project files, preserve the project's structure and approval states.
 

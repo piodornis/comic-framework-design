@@ -24,6 +24,8 @@
 > **Style strength:** strong
 > **Framework:** `comic-design-standard-v1`
 
+> **Approval scope:** `APPROVED` here means approved as a reusable framework Style Pack. A comic project must still explicitly select or approve this style for its own design layer.
+
 ## Intent
 
 Create an unmistakably illustrated comic look with strong graphic readability, bold ink contours, vivid saturated color, simplified expressive forms, and polished album-comic clarity.
