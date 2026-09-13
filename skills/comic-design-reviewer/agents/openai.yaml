@@ -1,0 +1,12 @@
+interface:
+  display_name: Comic Design Reviewer
+  short_description: Review comic designs for style fidelity, visual continuity, source preservation, repeatability, and approval readiness without silently changing the work.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
