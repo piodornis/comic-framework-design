@@ -3,6 +3,7 @@
 ## Contents
 
 - [Recommended location](#recommended-location)
+- [Story linkage and asset ownership](#story-linkage-and-asset-ownership)
 - [Minimum fields](#minimum-fields)
 - [Recommended `design.md`](#recommended-designmd)
 - [Character Sheet expectations](#character-sheet-expectations)
@@ -32,6 +33,16 @@ expression-sheet.png
 pose-sheet.png
 costume-01.png
 ```
+
+## Story linkage and asset ownership
+
+Use the same `<character-id>` as `characters/<character-id>/profile.md`. Link this narrative source from `design.md`, and link the design record from the profile. The profile retains narrative authority; the design record retains visual authority. A visual proposal does not fill an `OPEN` narrative field automatically.
+
+Keep images, available generation prompts and asset provenance in this record's `references/` directory. Do not duplicate visual files in the Story character directory. Missing images or original prompts should be recorded explicitly, not fabricated. Optional character/design indexes link to these records rather than duplicating their contents.
+
+Generic body-type or ensemble studies are not automatically named characters. They may use a clearly labelled study directory or the project's shared `design/references/` convention without an invented narrative profile.
+
+Preserve established project paths unless reorganization is requested. For an authorized move, update active references, preserve image bytes and approval states, and record old/new paths with checksums where useful. Preserve original prompt and provenance records as historical evidence; a migration map may resolve their old paths. A later filename or a directory change does not select or approve a variant.
 
 ## Minimum fields
 

@@ -64,6 +64,12 @@ comic-project/
 
 The exact story-side folders may vary when the project intentionally uses another compatible structure.
 
+## Character records across layers
+
+For each named character, use matching IDs in `characters/<character-id>/profile.md` and `design/characters/<character-id>/design.md`; visual assets and available prompts belong in `design/characters/<character-id>/references/`. Link both records to each other, and avoid duplicate asset copies. See [Character Design Schema](character-design-schema.md) for ownership, missing references and migration guidance.
+
+This is a recommended combined layout, not a requirement to migrate existing projects. Story-only projects may keep their visual references with their character profiles. Generic type studies need no invented individual character profile.
+
 ## Source-of-truth boundaries
 
 Use the story/project layer for facts such as:

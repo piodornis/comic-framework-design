@@ -58,6 +58,14 @@ design/
 
 Follow the framework's `design-archive-policy.md` for superseded or historically retained design artifacts. Do not move material into `design/archive/` without explicit authorization.
 
+## Character linkage
+
+- Narrative profile: `characters/<character-id>/profile.md`.
+- Visual record: `design/characters/<character-id>/design.md`.
+- Images, available prompts and provenance: `design/characters/<character-id>/references/`.
+
+Use identical IDs and reciprocal links. Keep one authoritative visual asset copy; do not mirror it in the Story directory. Record missing references explicitly. Shared type studies can have a study record without an invented named character. Document existing alternate paths rather than silently moving assets or changing approval states.
+
 ## Project-specific style notes
 
 Add only project-specific rules here. Reusable visual-language rules belong in a Style Pack.
