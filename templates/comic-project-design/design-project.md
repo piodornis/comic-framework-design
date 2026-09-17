@@ -73,3 +73,13 @@ Add only project-specific rules here. Reusable visual-language rules belong in a
 ## Open design questions
 
 - ...
+
+## Optional page-production handoff
+
+- Production entry point, when adopted: OPEN
+- References/revisions and visual approval scope for the current handoff: OPEN
+- Artwork/lettering separation and intentional in-world text exceptions: OPEN
+- Protected image details, crop constraints and reserved text areas: OPEN
+- Prior comic/layout example and its limited reference role, if any: OPEN
+
+Final text, typography, native layout and printer parameters remain with their Story/Production owners. These notes do not imply production readiness or approval of an example's entire style.

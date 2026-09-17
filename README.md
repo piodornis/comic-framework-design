@@ -10,7 +10,7 @@ The framework defines how to develop, review, and document visual styles, charac
 
 - `comic-framework-story` defines narrative truth, characters, relationships, world logic, story, scripts, and storyboards.
 - `comic-framework-design` defines how those narrative elements are visually interpreted and approved.
-- a future `comic-framework-production` may turn approved story and design material into production-ready panels, pages, lettering, and exports.
+- `comic-framework-production` provides a v0.1 draft planning foundation; final panels, page assembly, lettering and exports remain implementation work. Optional handoff guidance supports project-level pilots.
 
 The comic project repository remains the source of truth for project-specific content.
 
@@ -179,3 +179,7 @@ Do not silently copy project-specific designs into reusable Style Packs.
 ## Version
 
 Framework contract: `comic-design-standard-v1`
+
+## Page-production handoff
+
+[Design inputs for page production](schemas/production-handoff.md) documents reference revisions, preservation anchors, text-space planning, separate lettering and scoped intake of previous comic examples. It complements the current v1 schemas without prescribing a layout application or claiming an implemented print pipeline.

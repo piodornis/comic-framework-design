@@ -179,3 +179,7 @@ If a structural migration would improve compatibility, propose the migration and
 ## Version
 
 Framework contract: `comic-design-standard-v1`
+
+## Optional page-production integration
+
+[Design inputs for page production](production-handoff.md) describes the Design-side information to supply when a project begins panel/page assembly. Document the project's Production entry point and image/lettering separation policy in `design-project.md` when relevant. Final layout files, lettering lists and export settings belong to the documented Production area, not Story `style/` or duplicate design records. No fixed asset directory or new required v1 field is introduced.

@@ -74,3 +74,7 @@ The reviewer recommends; the creator approves.
 ## Version
 
 Framework contract: `comic-design-standard-v1`
+
+## Optional page-production handoff review
+
+For production-bound artwork, use [Design inputs for page production](production-handoff.md) to check source revisions, intended usage, crop/preservation anchors and reserved text areas. Distinguish separate lettering from deliberate in-world text. Report visual suitability within the reviewed scope; do not equate a Design recommendation or APPROVED reference with lettering approval, PDF preflight or print release.

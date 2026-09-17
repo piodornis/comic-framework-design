@@ -78,3 +78,7 @@ Report unresolved contradictions as `CONFLICT` rather than blending them silentl
 ## Version
 
 Framework contract: `comic-design-standard-v1`
+
+## Previous comics and production examples
+
+When a supplied comic page or layout file is a reference, state the precise visual properties to study and those not to inherit. Existing reference roles with a narrow `Applies to`/`Do use` scope are sufficient; do not invent a universal layout-reference approval state. Print settings, font availability and page dimensions require separate Production verification. See [Design inputs for page production](production-handoff.md).
