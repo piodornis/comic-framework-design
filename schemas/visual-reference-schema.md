@@ -82,3 +82,9 @@ Framework contract: `comic-design-standard-v1`
 ## Previous comics and production examples
 
 When a supplied comic page or layout file is a reference, state the precise visual properties to study and those not to inherit. Existing reference roles with a narrow `Applies to`/`Do use` scope are sufficient; do not invent a universal layout-reference approval state. Print settings, font availability and page dimensions require separate Production verification. See [Design inputs for page production](production-handoff.md).
+
+## Current construction references and superseded studies
+
+For props with an evolution folder, identify the active construction reference and exact version, plus superseded/rejected studies that must not guide new panels. Directory recency or a visually attractive sketch does not override an explicit selection. Separate mechanical construction from scene staging and general style references.
+
+Record which dimensions and attachments remain fixed, which parts may rotate/translate, and which features should become occluded in each view. If references conflict, identify the affected property and scope rather than averaging incompatible constructions. A creator-directed change is recorded as a new decision; it does not silently rewrite historical approval evidence.

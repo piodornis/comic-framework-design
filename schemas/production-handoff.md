@@ -27,3 +27,15 @@ Preserve the original example and inspect a working copy. Record its stated role
 Check identity/reference fidelity, reserved text areas, safe crop assumptions and protected visual anchors for the requested use. Report problems with artifact/revision, location, expected/observed result and next owner. Typography/overflow and PDF preflight are Production checks; Design review does not certify print readiness.
 
 A changed crop or balloon may hide a meaningful detail and require Story/Design review. A new rendering may require renewed identity/continuity checks. Keep routine authorized corrections within scope; do not promote EXPLORATION/SELECTED to APPROVED/LOCKED through file placement, an export or a completed task.
+
+## Full-panel images and overlay-aware composition
+
+When the project adopts a full-panel artwork profile, deliver continuous artwork across the entire panel rectangle. Reserve quiet image content beneath editable caption overlays; do not bake in a white caption strip, extra caption, balloon or border. Proportional cover fitting may crop the source. Judge protected details after that crop and after the real caption frames are placed, not from the source image alone. Recompose or replace an unsuitable image rather than stretching it or introducing unplanned empty bands.
+
+Overlay geometry is supplied by Production: caption origin/size and any folio overlap are part of the composition brief. Check heads, screens, hands, feet, clues and other relevant details against those areas. A lower-center folio crossing the bottom panel edge also requires protected content to stay clear of its actual rectangle.
+
+## Replaceable panels and scoped corrections
+
+References, provisional panel illustrations and accepted final placements remain distinct. Keep panel instances replaceable and record their exact reference versions. Character-design acceptance does not finalize every illustration using that character; a general positive review is not blanket final approval. A request to replace one prop should preserve accepted character appearance and unrelated composition, followed by visual comparison of the actual result.
+
+For repeated or transforming props, state construction invariants separately from movable parts: body dimensions, joint positions, relative scale, occlusion and allowable rotation/translation. A rotated display does not imply a resized body. Distinguish joints hidden behind a surface from missing joints. Compare repeated instances across panels, including portrait/landscape variants, rather than approving each in isolation. Do not claim geometric accuracy merely because the generation prompt requested it.
